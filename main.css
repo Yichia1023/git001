@@ -1,4 +1,5 @@
 header {
   height: 300px;
-  background: rgb(230, 47, 77);
+  background-image: url(./images/header.jpg);
+  background-size: cover;
 }
